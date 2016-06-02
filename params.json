@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "tagline": "Calculator",
+  "body": "### Welcome to Calculator.\r\nA modern Calculator with new and improved UI designed specially for the users.\r\n### Download\r\nHere is the link to Calculator Application:\r\n* [Windows x32 Platform (rar)](https://drive.google.com/open?id=0B4vBBfXB3KipRzlhdF83eTFvVEk)\r\n* [Windows x64 Platform (rar)](https://drive.google.com/open?id=0B4vBBfXB3KipVWc4eTRYTEV4U2s)\r\n\r\n### About Developer\r\nI am Sabeeh Murtaza Mirza (@sabeehmurtaza9) and i am the Developer of this Calculator. This application is designed with latest Web Technologies like HTML5, CSS3, JS and Jquery. and Build with [Electron Framework](http://electron.atom.io/).\r\n\r\n### Support or Contact\r\nHaving trouble with Application? Check out our [Documentation](https://github.com/sabeehmurtaza9/Calculator/wiki) or [support](https://github.com/sabeehmurtaza9/Calculator/issues) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
